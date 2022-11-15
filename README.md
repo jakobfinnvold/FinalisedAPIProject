@@ -3,11 +3,11 @@ Vær og vind med samme sinn
 
 # Requirements
     ## Python packages
-    Numpy (version 1.23.4) \cite{numpysource}
-    Numpy-stl (version 2.17.1) \cite{numpySTL}
-    Pillow (version 9.3) \cite{pillowsource}
-    Requests (version 2.28.1) \cite{requestsource}
-    SolidPython (version 1.1.3) \cite{solidpythonsource}
+    Numpy (version 1.23.4) 
+    Numpy-stl (version 2.17.1) 
+    Pillow (version 9.3) 
+    Requests (version 2.28.1)
+    SolidPython (version 1.1.3) 
     Time 
     OS
 
